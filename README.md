@@ -1,14 +1,16 @@
-# Webpack Starter
+# TODO App
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es un proyecto realizado durante el curso JavaScript Moderno.
+
+Es una pequeña aplicación para la gestión de tareas.
 
 ### Notas:
-Recuerden recontruir los módulos de Node
+Recontruir los módulos de Node
 ```
 npm install
 ```
 
-Y para construir el build, recuerden:
+Construir el build:
 ```
 npm run build
 ```
